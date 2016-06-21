@@ -1,0 +1,30 @@
+{
+  "name": "stunning-engine",
+  "version": "0.0.1",
+  "description": "scraper/crawler engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardob/stunning-engine.git"
+  },
+  "keywords": [
+    "scraper",
+    "crawler",
+    "engine",
+    "nodejs",
+    "node",
+    "scraping",
+    "fast",
+    "extensible",
+    "template"
+  ],
+  "author": "Gerardo Bracho https://github.com/gerardob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardob/stunning-engine/issues"
+  },
+  "homepage": "https://github.com/gerardob/stunning-engine#readme"
+}
