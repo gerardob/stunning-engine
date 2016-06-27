@@ -26,5 +26,12 @@
   "bugs": {
     "url": "https://github.com/gerardob/stunning-engine/issues"
   },
-  "homepage": "https://github.com/gerardob/stunning-engine#readme"
+  "homepage": "https://github.com/gerardob/stunning-engine#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.14.0",
+    "moment": "^2.13.0",
+    "mongodb": "^2.1.18",
+    "request": "^2.72.0"
+  }
 }
